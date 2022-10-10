@@ -1,0 +1,23 @@
+{
+  "name": "easy-readme-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsong73/easy-readme-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsong73/easy-readme-builder/issues"
+  },
+  "homepage": "https://github.com/jsong73/easy-readme-builder#readme",
+  "dependencies": {
+    "pokemon": "^2.3.3"
+  }
+}
