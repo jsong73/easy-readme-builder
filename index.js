@@ -71,13 +71,3 @@ function init(){
 
 init();
 
-
-
-// function init() {
-//     inquirer.prompt(questions).then((answers)=>{
-//     fs.writeFile("test.md", JSON.stringify(answers), (err) => {
-//     })
-//     })
-
-// }
-
